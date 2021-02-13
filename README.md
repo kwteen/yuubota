@@ -1,0 +1,2 @@
+# yuubota
+bot termux j
